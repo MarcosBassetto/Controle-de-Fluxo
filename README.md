@@ -4,8 +4,6 @@ Visão Geral
 Este projeto consiste em uma aplicação Java simples que solicita ao usuário dois parâmetros numéricos e realiza uma contagem a partir do primeiro parâmetro até o segundo. Se o primeiro parâmetro for maior ou igual ao segundo, uma exceção personalizada é lançada.
 Estrutura do Projeto
 
-plaintext
-
 desafioControleFluxo/
 ├── src/
 │   └── main/
@@ -14,6 +12,7 @@ desafioControleFluxo/
 │               ├── Contador.java
 │               └── ParametrosInvalidosException.java
 └── README.md
+
 
 📌 Funcionalidades
 Entrada de Dados:
