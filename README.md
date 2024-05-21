@@ -4,14 +4,14 @@ Visão Geral
 Este projeto consiste em uma aplicação Java simples que solicita ao usuário dois parâmetros numéricos e realiza uma contagem a partir do primeiro parâmetro até o segundo. Se o primeiro parâmetro for maior ou igual ao segundo, uma exceção personalizada é lançada.
 Estrutura do Projeto
 
-desafioControleFluxo/
-├── src/
-│   └── main/
-│       └── java/
-│           └── desafioControleFluxo/
-│               ├── Contador.java
-│               └── ParametrosInvalidosException.java
-└── README.md
+- desafioControleFluxo/ 
+  - src/
+    - main/
+      - java/
+        - desafioControleFluxo/
+          - Contador.java
+          - ParametrosInvalidosException.java
+  - README.md
 
 
 📌 Funcionalidades
